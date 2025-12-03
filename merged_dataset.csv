@@ -1,0 +1,83 @@
+clip_id,text,emotion,trigger,clip_path
+H_YT_001,"""And I can't get rid of this picture either""",sad,neutral_unclear,clips/H_YT_001.mp4
+H_YT_002,"""Why are you so sick in the head? Why can't you just be normal and not be so crazy""",Angry,neutral_unclear,clips/H_YT_002.mp4
+H_YT_003,"""I wish I could see her at her first day at school""",sad,neutral_unclear,clips/H_YT_003.mp4
+H_YT_004,"""to get on your knees and beg me to stay with you. You are pathetic""",disgusted,neutral_unclear,clips/H_YT_004.mp4
+H_YT_005,"""How no matter how much I'd like to not hate you, I hate you even more""",Angry,neutral_unclear,clips/H_YT_005.mp4
+H_YT_006,"""l'll miss you""",sad,neutral_unclear,clips/H_YT_006.mp4
+H_YT_007,"""I don't understand how you can be so mean""",Angry,neutral_unclear,clips/H_YT_007.mp4
+H_YT_008,"""And my mama weighs 312 pounds""	",sad,neutral_unclear,clips/H_YT_008.mp4
+H_YT_009,"""So you knew and you looked me in my face""",Angry,neutral_unclear,clips/H_YT_009.mp4
+H_YT_010,"""How can you live with yourself""",sad,neutral_unclear,clips/H_YT_010.mp4
+H_YT_011,"""But for my part I love him not""",Angry,neutral_unclear,clips/H_YT_011.mp4
+H_YT_012,"""Yet I have more cause to hate him than to love him, for what had he to do to chide at me""",Angry,neutral_unclear,clips/H_YT_012.mp4
+H_YT_013,"""You have never loved me""",sad,neutral_unclear,clips/H_YT_013.mp4
+H_YT_014,"""You have never understood me""",sad,neutral_unclear,clips/H_YT_014.mp4
+H_YT_015,"""It is your fault that I have made nothing of my life""",Angry,neutral_unclear,clips/H_YT_015.mp4
+clip_001,"""People used to tell me that you were to selfish to be a great artist""",Angry,Feeling let down,clips/clip_001.mp4
+clip_002,"""The best photography, the best finishing, refining our craft""",Joy,"Desire to improve, achieve excellence",clips/clip_002.mp4
+clip_003,"""My dad is dead""",Sad,Grief from losing someone,clips/clip_003.mp4
+clip_004,"""Why would someone let a stranger into their home""",Angry,Frustration and fear over a perceived threat,clips/clip_004.mp4
+clip_005,"“When she fell asleep I snooped, I peeked, I didn’t mind my business”",Guilt/Disappointment,Realization of doing something wrong or invading someone’s privacy,clips/clip_005.mp4
+clip_006,"“Look dude, I don’t wanna be here either, okay”",Angry,Frustration from being forced into an unwanted or uncomfortable situation,clips/clip_006.mp4
+clip-007,"""I care more to be loved""",Sad,Longing for affection and emotional connection,clips/clip-007.mp4
+clip_008,"""I want to be loved""",Sad,Desire for acceptance and emotional connection,clips/clip_008.mp4
+clip_009,“I don’t feel you appreciate me”,Sad ,Feeling undervalued or unrecognized,clips/clip_009.mp4
+clip_010,"“Do you think it’s gonna go well tonight, do you think it’s gonna go well tonight?”",Fear/Anxiety,Worry about performance or uncertainty about an upcoming situation,clips/clip_010.mp4
+clip_011,"“It’d be nice if you did things that I ask, it would be even nicer if you did things without me having to ask”",Disappointment,Feeling ignored or unappreciated,clips/clip_011.mp4
+clip_012,"“Can you, can you get me out of this place”",Fear/Anxiety,Urgent need to escape a stressful or threatening situation,clips/clip_012.mp4
+clip_013,“I don’t think I deserve forgiveness for what I have done”,Guilt,Awareness of the harm or wrongdoing one has caused,clips/clip_013.mp4
+clip_014,"""So walking into this hose is easier from walking into my home""",Anxiety,Facing a situation that feels personally challenging or emotionally conflicting,clips/clip_014.mp4
+clip_015,"“It’s a joy and… I don’t know, I just… I really love it. I hope I get to do more of it”",Joy,Passion and enthusiasm for an activity or craft,clips/clip_015.mp4
+clip2,"""He wasn't fair, he was terrible, and he was cruel to me""",sad,,
+YT_2fcd227f,It's great to feel good.,happy,,clips/YT_2fcd227f.mp4
+YT_0fb0b651,"it was overwhelming, you were beside yourself.",surprised,,clips/YT_0fb0b651.mp4
+YT_1cd3ec7a,"How do you not think, oh my gosh,",surprised,,clips/YT_1cd3ec7a.mp4
+YT_01c4ba33,But that's not how life goes.,sad,,clips/YT_01c4ba33.mp4
+YT_1cc50f02,That's hard for some parents.,sad,,clips/YT_1cc50f02.mp4
+YT_1c1bf778,"it's shocking the tone, right?",surprised,,clips/YT_1c1bf778.mp4
+YT_0b9e4992,"totally out of line, mean or rude or wrong tone,",angry,,clips/YT_0b9e4992.mp4
+YT_0fb8788e,it's a luxury to have two parents in the home.,calm,,clips/YT_0fb8788e.mp4
+YT_0fbeafc4,even though they are big and often quite unpleasant.,disgust,,clips/YT_0fbeafc4.mp4
+YT_1db0b884,Thank you for having me.,happy,,clips/YT_1db0b884.mp4
+YT_6e911f1b,My dad spoils me the best so dad.,happy,,clips/YT_6e911f1b.mp4
+YT_6ad59ed3,"Sometimes mom, sometimes dad.",neutral,,clips/YT_6ad59ed3.mp4
+YT_a1bc6ff4,I like them both.,happy,,clips/YT_a1bc6ff4.mp4
+YT_1a7cb017,"If dad's in a better mood, I like dad better.",calm,,clips/YT_1a7cb017.mp4
+YT_1d95ac5b,She's a lot more softer than dad's.,calm,,clips/YT_1d95ac5b.mp4
+YT_2a3f069c,My mom makes me food.,happy,,clips/YT_2a3f069c.mp4
+YT_7e6ca6b1,Probably the first time I got suspended from school.,sad,,clips/YT_7e6ca6b1.mp4
+YT_03b43081,I climbed the roof of my school.,neutral,,clips/YT_03b43081.mp4
+YT_01a864a7,I skipped classes a lot.,neutral,,clips/YT_01a864a7.mp4
+YT_0eab0c88,And I ended up kicking him back.,angry,,clips/YT_0eab0c88.mp4
+YT_3d6cdbcd,I was caught one night on my phone past my bedtime.,surprised,,clips/YT_3d6cdbcd.mp4
+YT_2a307783,Super pissed off.,angry,,clips/YT_2a307783.mp4
+YT_1ebbee2a,I cannot have my phone and she is threatening to delete my socials.,angry,,clips/YT_1ebbee2a.mp4
+YT_2cbd4cab,"I think the reason that we put more security cameras in my house, honestly, because of me,",neutral,,clips/YT_2cbd4cab.mp4
+YT_0cead706,"Oh my gosh, no.",surprised,,clips/YT_0cead706.mp4
+YT_6fec7f67,He's my first kiss.,happy,,clips/YT_6fec7f67.mp4
+YT_2bacdef6,You should actually say something that you like about her.,calm,,clips/YT_2bacdef6.mp4
+YT_0fce4916,"I think when you're in love with somebody,",happy,,clips/YT_0fce4916.mp4
+YT_1be08be6,then you should share with him and be kind.,calm,,clips/YT_1be08be6.mp4
+YT_31638671,You should treat them like in a special way.,calm,,clips/YT_31638671.mp4
+YT_0b454ebb,When they dance together at some places.,happy,,clips/YT_0b454ebb.mp4
+YT_01e6621d,I don't care if you're afraid of heights do it do it do it.,angry,,clips/YT_01e6621d.mp4
+YT_4d0dc46c,to make the choice to jump off of that cliff.,fearful,,clips/YT_4d0dc46c.mp4
+YT_1f12c46b,Really listen to what the other person has to say.,calm,,clips/YT_1f12c46b.mp4
+YT_0adfd494,"Someone that loves you, loves you because you're you.",happy,,clips/YT_0adfd494.mp4
+YT_8c8d6614,It makes you do the things you never thought you could do.,happy,,clips/YT_8c8d6614.mp4
+YT_1d65e2f2,Love to me is something you do on a day-to-day basis.,calm,,clips/YT_1d65e2f2.mp4
+YT_7edada7a,"And so you can hold affection and you can hold nostalgia, but I think love is active.",calm,,clips/YT_7edada7a.mp4
+YT_7f28eafd,"My brother, because he's really strong.",happy,,clips/YT_7f28eafd.mp4
+YT_0ea61650,I would say becoming the longest freshman long jump grad in my high school.,happy,,clips/YT_0ea61650.mp4
+YT_2e21169a,I mostly think of like the beach.,calm,,clips/YT_2e21169a.mp4
+YT_2c6e0237,I think about playing the piano.,calm,,clips/YT_2c6e0237.mp4
+YT_0cb37c52,"It really is just where the people that I love are, you know, so we can make a home in a tent and we can make a home in a mansion but it's got to be the people that I love.",happy,,clips/YT_0cb37c52.mp4
+YT_4c7b7169,"Like, once there's a hi, hello, how are you,",neutral,,clips/YT_4c7b7169.mp4
+YT_1d1007a2,It's really hard to rattle me.,calm,,clips/YT_1d1007a2.mp4
+YT_3c9113cd,I'm proud that I feel compassion for other people.,happy,,clips/YT_3c9113cd.mp4
+YT_1e3e24bd,"you wish you're young, why?",sad,,clips/YT_1e3e24bd.mp4
+YT_0d24c353,He was my best friend,sad,,clips/YT_0d24c353.mp4
+YT_1d0b9318,Because I feel like she did a great job.,happy,,clips/YT_1d0b9318.mp4
+YT_5bb39ee0,Take some deep breaths and listen to music and talking to someone about it,calm,,clips/YT_5bb39ee0.mp4
+YT_3caec98d,I'd like to be taller.,sad,,clips/YT_3caec98d.mp4
