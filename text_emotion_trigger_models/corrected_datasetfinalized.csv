@@ -1,0 +1,88 @@
+id,Text,clean_text,emotion,emotion_id,trigger,trigger_id
+0,And I can't get rid of this picture either,and i can't get rid of this picture either,sad,1,worry for loved one,2
+1,Why are you so sick in the head? Why can't you just be normal and not be so crazy,why are you so sick in the head why can't you just be normal and not be so crazy,angry,0,relationship conflict,0
+2,I wish I could see her at her first day at school,i wish i could see her at her first day at school,sad,1,worry for loved one,2
+3,"How no matter how much I'd like to not hate you, I hate you even more",how no matter how much i'd like to not hate you i hate you even more,angry,0,relationship conflict,0
+4,I'll miss you,i'll miss you,sad,1,worry for loved one,2
+5,I don't understand how you can be so mean,i don't understand how you can be so mean,angry,0,relationship conflict,0
+6,And my mama weighs 312 pounds,and my mama weighs 312 pounds,sad,1,worry for loved one,2
+7,So you knew and you looked me in my face,so you knew and you looked me in my face,angry,0,relationship conflict,0
+8,How can you live with yourself,how can you live with yourself,sad,1,relationship conflict,0
+9,But for my part I love him not,but for my part i love him not,angry,0,relationship conflict,0
+10,"Yet I have more cause to hate him than to love him, for what had he to do to chide at me",yet i have more cause to hate him than to love him for what had he to do to chide at me,angry,0,relationship conflict,0
+11,You have never loved me,you have never loved me,sad,1,feeling unloved,1
+12,You have never understood me,you have never understood me,sad,1,feeling unloved,1
+13,It is your fault that I have made nothing of my life,it is your fault that i have made nothing of my life,angry,0,feeling unloved,1
+14,People used to tell me that you were too selfish to be a great artist,people used to tell me that you were too selfish to be a great artist,angry,0,feeling unloved,1
+15,"The best photography, the best finishing, refining our craft",the best photography the best finishing refining our craft,happy,2,excitement and enthusiasm,4
+16,My dad is dead,my dad is dead,sad,1,worry for loved one,2
+17,Why would someone let a stranger into their home,why would someone let a stranger into their home,angry,0,shock_guilt,3
+18,"When she fell asleep I snooped, I peeked, I didn't mind my business",when she fell asleep i snooped i peeked i didn't mind my business,sad,1,shock_guilt,3
+19,"Look dude, I don't wanna be here either, okay",look dude i don't wanna be here either okay,angry,0,shock_guilt,3
+20,I care more to be loved,i care more to be loved,sad,1,feeling unloved,1
+21,I want to be loved,i want to be loved,sad,1,feeling unloved,1
+22,I don't feel you appreciate me,i don't feel you appreciate me,sad,1,feeling unloved,1
+23,"It would be nice if you did things that I ask, it would be even nicer if you did things without me having to ask",it would be nice if you did things that i ask it would be even nicer if you did things without me having to ask,sad,1,relationship conflict,0
+24,"Can you, can you get me out of this place",can you can you get me out of this place,neutral,3,worry for loved one,2
+25,I don't think I deserve forgiveness for what I have done,i don't think i deserve forgiveness for what i have done,sad,1,shock_guilt,3
+26,So walking into this house is easier than walking into my home,so walking into this house is easier than walking into my home,sad,1,feeling unloved,1
+27,"It's a joy and it's I don't know, I just I really love it. I hope I get to do more of it",it's a joy and it's i don't know i just  i really love it i hope i get to do more of it,happy,2,excitement and enthusiasm,4
+28,"Let me answer all the questions that you can't ask and then I 'll leave you alone and you 'll never have to see me again, okay? Andre Died with AIDS",let me answer all the questions that you can't ask and then i'll leave you alone and you'll never have to see me again okay andre died with aids,sad,1,worry for loved one,2
+29,"He stopped letting me into the restaurant a couple years ago. He just cut me off cold, and that, um... That hurt, you know?",he stopped letting me into the restaurant a couple years ago he just cut me off cold and that um that hurt you know,sad,1,feeling unloved,1
+30,I didn't know my brother was using drugs.,i didn't know my brother was using drugs,sad,1,shock_guilt,3
+31,You are pathetic. It's too late. I am done with you.,you are pathetic it's too late i am done with you,angry,0,relationship conflict,0
+32,He wasn't fair. He was terrible. And he was cruel to me.,he wasn't fair he was terrible and he was cruel to me,sad,1,feeling unloved,1
+33,"Collage is amazing, bro!",collage is amazing bro,happy,2,excitement and enthusiasm,4
+34,"So that's your plan now, is it? To get on your knees and beg me to stay with you?",so that's your plan now is it to get on your knees and beg me to stay with you,angry,0,relationship conflict,0
+35,"I'm so glad you came over. Oh, I've been baking all day.",i'm so glad you came over oh i've been baking all day,happy,2,excitement and enthusiasm,4
+36,"It's murder, I am against it, you for it!",it's murder i am against it you for it,angry,0,shock_guilt,3
+37,Do you think the guy who did this to me feels bad?,do you think the guy who did this to me feels bad,sad,1,feeling unloved,1
+38,"I need you to come to that dinner for two hours, keep your mouth shut and behave like an adult",i need you to come to that dinner for two hours keep your mouth shut and behave like an adult,angry,0,relationship conflict,0
+39,"No she is not! No she is not! Rory is a good kid, mom! She is not me!",no she is not no she is not rory is a good kid mom she is not me,angry,0,defending someone cared about,5
+40,It's great to feel good.,it's great to feel good,happy,2,excitement and enthusiasm,4
+41,"it was overwhelming, you were beside yourself.",it was overwhelming you were beside yourself,neutral,3,excitement and enthusiasm,4
+42,"How do you not think, oh my gosh,",how do you not think oh my gosh,neutral,3,shock_guilt,3
+43,But that's not how life goes.,but that's not how life goes,sad,1,worry for loved one,2
+44,That's hard for some parents.,that's hard for some parents,sad,1,worry for loved one,2
+45,"it's shocking the tone, right?",it's shocking the tone right,angry,0,shock_guilt,3
+46,"totally out of line, mean or rude or wrong tone,",totally out of line mean or rude or wrong tone,angry,0,shock_guilt,3
+47,it's a luxury to have two parents in the home.,it's a luxury to have two parents in the home,neutral,3,defending someone cared about,5
+48,even though they are big and often quite unpleasant.,even though they are big and often quite unpleasant,neutral,3,shock_guilt,3
+49,Thank you for having me.,thank you for having me,happy,2,excitement and enthusiasm,4
+50,My dad spoils me the best so dad.,my dad spoils me the best so dad,happy,2,excitement and enthusiasm,4
+51,"Sometimes mom, sometimes dad.",sometimes mom sometimes dad,neutral,3,defending someone cared about,5
+52,I like them both.,i like them both,happy,2,defending someone cared about,5
+53,"If dad's in a better mood, I like dad better.",if dads in a better mood i like dad better,neutral,3,defending someone cared about,5
+54,She's a lot more softer than dad's.,she's a lot more softer than dad's,happy,2,defending someone cared about,5
+55,My mom makes me food.,my mom makes me food,neutral,3,defending someone cared about,5
+56,Probably the first time I got suspended from school.,probably the first time i got suspended from school,sad,1,shock_guilt,3
+57,I climbed the roof of my school.,i climbed the roof of my school,neutral,3,shock_guilt,3
+58,I skipped classes a lot.,i skipped classes a lot,neutral,3,shock_guilt,3
+59,And I ended up kicking him back.,and i ended up kicking him back,neutral,3,relationship conflict,0
+60,I was caught one night on my phone past my bedtime.,i was caught one night on my phone past my bedtime,neutral,3,shock_guilt,3
+61,Super pissed off.,super pissed off,angry,0,relationship conflict,0
+62,I cannot have my phone and she is threatening to delete my socials.,i cannot have my phone and she is threatening to delete my socials,neutral,3,relationship conflict,0
+63,"I think the reason that we put more security cameras in my house, honestly, because of me,",i think the reason that we put more security cameras in my house honestly because of me,neutral,3,defending someone cared about,5
+64,"Oh my gosh, no.",oh my gosh no,neutral,3,shock_guilt,3
+65,He's my first kiss.,he's my first kiss,happy,2,excitement and enthusiasm,4
+66,You should actually say something that you like about her.,you should actually say something that you like about her,neutral,3,defending someone cared about,5
+67,"I think when you're in love with somebody,",i think when you're in love with somebody,happy,2,excitement and enthusiasm,4
+68,then you should share with him and be kind.,then you should share with him and be kind,neutral,3,defending someone cared about,5
+69,You should treat them like in a special way.,you should treat them like in a special way,neutral,3,defending someone cared about,5
+70,When they dance together at some places.,when they dance together at some places,happy,2,excitement and enthusiasm,4
+71,I don't care if you're afraid of heights do it do it do it.,i don't care if you're afraid of heights do it do it do it,happy,2,excitement and enthusiasm,4
+72,Really listen to what the other person has to say.,really listen to what the other person has to say,neutral,3,defending someone cared about,5
+73,"Someone that loves you, loves you because you're you.",someone that loves you loves you because you're you,neutral,3,feeling unloved,1
+74,It makes you do the things you never thought you could do.,it makes you do the things you never thought you could do,happy,2,excitement and enthusiasm,4
+75,Love to me is something you do on a day-to-day basis.,love to me is something you do on a day_to_day basis,neutral,3,excitement and enthusiasm,4
+76,"And so you can hold affection and you can hold nostalgia, but I think love is active.",and so you can hold affection and you can hold nostalgia but i think love is active,neutral,3,excitement and enthusiasm,4
+77,"My brother, because he's really strong.",my brother because he's really strong,happy,2,defending someone cared about,5
+78,I would say becoming the longest freshman long jump grad in my high school.,i would say becoming the longest freshman long jump grad in my high school,happy,2,excitement and enthusiasm,4
+79,I mostly think of like the beach.,i mostly think of like the beach,happy,2,excitement and enthusiasm,4
+80,I think about playing the piano.,i think about playing the piano,happy,2,excitement and enthusiasm,4
+81,"It really is just where the people that I love are, you know, so we can make a home in a tent and we can make a home in a mansion but it's got to be the people that I love.",it really is just where the people that i love are you know so we can make a home in a tent and we can make a home in a mansion but its got to be the people that i love,neutral,3,defending someone cared about,5
+82,"Like, once there's a hi, hello, how are you,",like once there's a hi hello how are you,neutral,3,excitement and enthusiasm,4
+83,It's really hard to rattle me.,it's really hard to rattle me,happy,2,excitement and enthusiasm,4
+84,I'm proud that I feel compassion for other people.,i'm proud that i feel compassion for other people,happy,2,excitement and enthusiasm,4
+85,He was my best friend,he was my best friend,happy,2,worry for loved one,2
+86,Because I feel like she did a great job.,because i feel like she did a great job,happy,2,defending someone cared about,5
